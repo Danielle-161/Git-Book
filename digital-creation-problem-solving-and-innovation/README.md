@@ -10,5 +10,5 @@ Topics include:
  
 **Digital problem-solving:** Using digital tools for research, for working with data, answering questions and presenting evidence. 
  
-**Digital innovation:** Examines adopting digital tools and finding new ways to work with digital technology by combining creative knowledge and problem-solving skills.
+**Digital innovation:** Examines adopting digital tools and finding new ways to work with digital technology by combining creative knowledge and problem-solving skills. Cat and Dog
 
